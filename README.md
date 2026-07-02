@@ -171,5 +171,5 @@ jupyter notebook notebooks/05_hp_filter.ipynb
 
 **Mateusz Durski** · 2026
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz_Durski-blue)](https://www.linkedin.com/in/mateuszdurski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz_Durski-blue)](https://www.linkedin.com/in/mateusz-durski/)
 [![GitHub](https://img.shields.io/badge/GitHub-MateuszDurski-black)](https://github.com/MateuszDurski)
