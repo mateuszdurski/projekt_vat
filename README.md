@@ -169,7 +169,7 @@ jupyter notebook notebooks/05_hp_filter.ipynb
 
 ## Autor
 
-**Mateusz Durski** · 2025
+**Mateusz Durski** · 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz_Durski-blue)](https://www.linkedin.com/in/mateuszdurski)
 [![GitHub](https://img.shields.io/badge/GitHub-MateuszDurski-black)](https://github.com/MateuszDurski)
