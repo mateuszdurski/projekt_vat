@@ -3,7 +3,7 @@
 Analiza ilościowa efektu reform fiskalnych JPK (2016), Split Payment (2018)
 i Białej Listy (2019) na efektywność poboru VAT w Polsce.
 
-📊 **[Interaktywny raport HTML](https://github.com/mateuszdurski/projekt_vat/blob/main/raport.html)**
+📊 **[Interaktywny raport HTML](https://mateuszdurski.github.io/projekt_vat/raport.html)**
 
 ---
 
